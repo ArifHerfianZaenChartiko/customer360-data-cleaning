@@ -1,0 +1,9 @@
+# Raw CSVs are shared as raw_data.zip (GitHub rejects files over 100 MB)
+01_data_and_task/raw_data/*.csv
+
+# Editor, notebook and Office working files
+.ipynb_checkpoints/
+__pycache__/
+~$*
+*.tmp
+.vscode/
